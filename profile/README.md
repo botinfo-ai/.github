@@ -1,7 +1,7 @@
 # BotInfo.ai
 
-BotInfo.ai is a robot marketplace: listings, prices and guides for humanoid and quadruped robots at
-[botinfo.ai](https://botinfo.ai), sold through partner dealers.
+BotInfo.ai tracks robots and robot AI: dated prices and specs for humanoid and quadruped robots at
+[botinfo.ai](https://botinfo.ai), and here, an open benchmark of what happens when an AI agent drives a robot.
 
 ## BotInfo (formerly Reins)
 
